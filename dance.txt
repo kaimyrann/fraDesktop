@@ -1,1 +1,2 @@
 Hei og hopp!
+Edit gjort i github
